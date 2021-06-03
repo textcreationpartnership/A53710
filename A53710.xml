@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The oath taken by the Parliament of England concerning the maintenance of the Protestant religion and the advancement of His Majesties honour and regall prerogative : whereunto is annexed the oath of the dukes, earles, barons, gentry, and commonalty of His Majesties kingdome of Scotland : wherein is declared their great care to maintaine and defend the Gospell and the professors thereof : and also their loyall intentions towards His Majesty and his heires promising to use all carefull meanes to fulfill His Majesties just and royall commands : also a declaration of both Houses of Parliament concerning severall matters of great importance.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53710</idno><idno type="EEBO-CITATION">12646509</idno>
+  <idno type="VID">65143</idno>
+  <idno type="EEBO-PROQUEST">2240982852</idno>
+  
+            <idno type="STC">Wing O77</idno>
+            <idno type="STC">ESTC R11909</idno>
+            <idno type="OCLC">12646509</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E151, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The oath taken by the Parliament of England concerning the maintenance of the Protestant religion and the advancement of His Majesties honour and regall prerogative : whereunto is annexed the oath of the dukes, earles, barons, gentry, and commonalty of His Majesties kingdome of Scotland : wherein is declared their great care to maintaine and defend the Gospell and the professors thereof : and also their loyall intentions towards His Majesty and his heires promising to use all carefull meanes to fulfill His Majesties just and royall commands : also a declaration of both Houses of Parliament concerning severall matters of great importance.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Favvcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 June 17.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Oaths --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65143:1"/>
+            <pb facs="tcp:65143:1"/>
+            <p>THE OATH Taken by the Parliament of ENGLAND.</p>
+            <p>Concerning the maintenance of the Protestant Religion, and the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dvancement of His Majesties Honour and Regall Prerogative.</p>
+            <p>Whereunto is annexed the <hi>OATH</hi> of the Dukes, E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rles, Barons, Gentry and Commonalty of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Majesties Kingdome of <hi>SCOTLAND.</hi>
+            </p>
+            <p>Wherein is declared their great care to maintaine and de<g ref="char:EOLhyphen"/>fen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Gospell, and the professors thereof; And al<g ref="char:EOLhyphen"/>so their Loyall intentions towards His Majesty and his Heires, promising to use all carefull meanes, to ful<g ref="char:EOLhyphen"/>fill his Majesties just and Royall Commands.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the House of Commons that this be printed &amp;c.</p>
+                        <closer>
+                           <signed>Hen. Elsing, Cler. Parl. D. Com,</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Also a Declaration of both Houses of Parliament, con<g ref="char:EOLunhyphen"/>cerning severall matters of great importance.</p>
+                        <p>And Ordered to be Printed.</p>
+                        <closer>
+                           <signed>Iohn Browne, Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed by T. FAVVCET. 1642. <hi>June,</hi> 17.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb facs="tcp:65143:2"/>
+            <pb facs="tcp:65143:2"/>
+            <head>The Oath taken by the Parliament and by them prescribed to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken by all his Maiesties loyall Subiects.</head>
+            <p>
+               <seg rend="decorInit">A</seg>T all Nationall Assemblies, Parliaments, and Councels, it hath beene customarily us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mong the Members thereof, at their first comming together, to take a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oath both before God and Man, Protesting not to de<g ref="char:EOLhyphen"/>termine or execute any thing, contrary to the word of God, or prejudiciall to the Honour of His Ma<g ref="char:EOLhyphen"/>iesty, onely that all their Studies, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceavours▪ c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<g ref="char:EOLhyphen"/>cels, and determinations, sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be impl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed to the increase of Gods Glory, the advanceme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of his Maiesties Honour, and the Peace and quiet free<g ref="char:EOLhyphen"/>dome and blest prosperity of Church and Com<g ref="char:EOLhyphen"/>mon-We<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le.</p>
+            <p>Which Oath and Protestation, is as well for the inducement of others (<hi>to wit,</hi> all his Maiesties loy<g ref="char:EOLhyphen"/>all Subiects,) as themselves, since 'tis not in their power to performe what they protest, wit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ut the
+<pb facs="tcp:65143:3"/> assistance of such his M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iesties Subiects as sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded by them, to the fulfilling of whose commands such an Oath and Protestation binds.</p>
+            <p>And to the End that none may be ignorant or plead excuse, after that they have themselves taken the said O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th or Protestation, they cause it to be publi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in pri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that every m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n may know what they have promised, and what they are to command, and likewise what his owne dutie is, and must be, if he desire to have any share or portion in their religious Protection.</p>
+            <p>An exact testimony I will give you, of this, which has been lately done, and is at this day fresh in your memories.</p>
+            <p>At the late P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament held in <hi>Scotland,</hi> in the yeare of our Lord 1641.</p>
+            <p>At the Nationall Assembly, they tooke an Oath, which I have here published for your better satis<g ref="char:EOLhyphen"/>faction.</p>
+         </div>
+         <div type="oath">
+            <head>The Oath taken by the Parliament in <hi>Scotland.</hi>
+            </head>
+            <p>FOr so much, as the honour, greatnesse, and hap<g ref="char:EOLhyphen"/>pinesse of the Kings Royall Maiesty, and the wel<g ref="char:EOLhyphen"/>fare of the Subiects, dependeth on the purity of Re<g ref="char:EOLhyphen"/>ligion, (as it is now establish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in this Kingdome) the Lawes, Liberties, and peace thereof, which ought to be sought after b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all good Christians, loy<g ref="char:EOLhyphen"/>all Subiects, and true P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; And to be furthe<g ref="char:EOLhyphen"/>red and maintained by them, ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll such, as by any means endeavour to sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke or subvert the same.</p>
+            <p>Therefore we under Subscrib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd every one of Us, doe in the presence of Almighty God, pro<g ref="char:EOLhyphen"/>mise
+<pb facs="tcp:65143:3"/> and vow that in this present Parliament, We shall faithfully and freely speak, answer, &amp; expresse our selves upon all and every thing, which is, or shall be proponed so farre as we thinke in our Consci<g ref="char:EOLhyphen"/>ence, may conduce to the glory of God, the good and peace of the Church, and State of this King<g ref="char:EOLhyphen"/>dome. And imploy our best endeavours to promove the same: And shall in no wayes advise, voice, nor consent to any thing which to our best knowledge we think not most expedient &amp; conduceable there<g ref="char:EOLhyphen"/>to. As also that we shall maintaine and defend with our lives, po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and estate, his Majesties Royall Per<g ref="char:EOLhyphen"/>son, honor, and estate, as is exprest in our Nationall <hi>Covenant.</hi> And likewise, the power and priviledges of Parliaments; And the lawfull rights and liberties of the Subjects: And by all good means and waies, oppose and endeavour to bring to exact tryall all such as either by force, practise, counsell, plots, con<g ref="char:EOLhyphen"/>spiracies, or otherwise have done, or shall doe any thing in prejudice of the purity of Religion, the Lawes, Liberties, and peace of the Kingdome: And further, that We shall in all just and honourable wayes, endeavour to preserve Union and Peace be<g ref="char:EOLhyphen"/>twixt the three Kingdomes, <hi>Scotland, England,</hi> and <hi>Ireland:</hi> And neither for hope, feare, nor other respect, shall relinquish this Vow and Promise.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>REad in the Audience of Parliament, who approveth the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ame, and appointeth the same to be taken by all members of this Parliament, and in all Parliaments hereafter, before they passe to any Act or determination.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:65143:4"/>
+            <p>This I have done with intent to silence some ma<g ref="char:EOLhyphen"/>licious tongues, and malignant Spirits who hold it unlawfull for a Parliament to impose an O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th (by themselves taken) on the Subiect, for it is apparant<g ref="char:EOLhyphen"/>ly knowne, that this Oath was with willingness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ta<g ref="char:EOLhyphen"/>ken by the Cleargy and Layity, of that Kingdome, and at this present is justified by the whole body of the Kingdome, wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esse the true Peti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion Presen<g ref="char:EOLhyphen"/>ted to the Lords of the privy Councell of <hi>Scotland.</hi>
+            </p>
+            <p>Now give me leave, having shewne you by what president the Parliament of <hi>England</hi> hath, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd taken an O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th themselves, and imposeth it on other his Maiesties loving Subiects, and although some Ma<g ref="char:EOLhyphen"/>liciously obiect that such an Oath ought not to be impos'd, but when necessity requires it, and pretend that at this time there is no such necessity, I answer, that if the obiectors heart were loyall, or his Judge<g ref="char:EOLhyphen"/>ment grounded on reason, he would not, nor could not be ignorant of the necessity, and of the be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efit received, by the taking such an Oath, if seriously weigh'd, and conscionably applyed, since the duties were lawfull in themselves before this imposition, not taking Law and Authority f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m their present commands, but their comma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds taking Authority from prec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dent Lawes, which the high Court of Parliament observi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, thoug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it necessary (having presidents from times p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, and present Examples for the future) to take this Oath themselves, and to recommend it to all his Maiesties loving Sub<g ref="char:EOLhyphen"/>iects, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y might with the like affection mani<g ref="char:EOLhyphen"/>fest their Zeale towards God, and their loyalt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to his Maiesty.</p>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:65143:4"/>
+            <head>The manner and Exact Forme of which Oath I have set downe as followeth.</head>
+            <p>
+               <hi>I A. B.</hi> doe in the presence of Almighty God, Pro<g ref="char:EOLhyphen"/>mise, Vow, and Protest, to maintain and defend as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fully J may, with my life, power, and estate, the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue Reformed Protestant Religion, expres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the Doctrine of the Church of <hi>England,</hi> against all Pope<g ref="char:EOLhyphen"/>ry a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Popish Innovations within this Realme contra<g ref="char:EOLhyphen"/>ry to the same Doctrine, and according to the duty of my Allegiance, His Majesties Royall Person, Honour and E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate; as also the Power and Priviledges of Par<g ref="char:EOLhyphen"/>liament; The lawfull Rights and Liberties of the Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject▪ and every person that maketh this Protestati<g ref="char:EOLhyphen"/>on, in wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>soever he shall doe in the lawfull pursuance of the same. And to my Power, and as farre as lawful<g ref="char:EOLhyphen"/>ly I may, I will oppose, and by all good wayes and meanes e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to bring to condigne punishment, all such a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther by Force, Practice, Counsels, Plots, Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>racies, or otherwise, doe any thing in this present Pro<g ref="char:EOLhyphen"/>testation continued. And further, that I s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all in all just and Honorable wayes endeavour to preserve the V<g ref="char:EOLhyphen"/>nion and Peace between the three Kingdomes of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ireland;</hi> And neither for hope, feare, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her respect, shall relinquish this Promise, Vow, and Protestation.</p>
+            <p>This I leave to t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y consideration, desiring thee seriously to consider the necessity of the Oath im<g ref="char:EOLhyphen"/>posed by the High Court of Parliament, with all the Efficacy and Benefit thou s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> receive by the cheerefull performance of what thou hast Prote<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed.</p>
+            <pb facs="tcp:65143:5"/>
+            <p>Thus hoping that all doubts will cease, and a Religious Faith increase, I leave thee to GOD, who no doubt will guide thee through this Labo<g ref="char:EOLhyphen"/>rinth, and convert all our feares to a Religious Joy.</p>
+         </div>
+         <div type="order">
+            <head>Die Sabbathi <hi>11.</hi> Junii, <hi>1642.</hi>
+            </head>
+            <p>IT is this day ordered by the Lords in Parlia<g ref="char:EOLhyphen"/>ment assembled, That a strict Search and Exa<g ref="char:EOLhyphen"/>mination shall bee made by the Justices of Peace, Majors, Bayliffes, Constables, and o<g ref="char:EOLhyphen"/>ther His Majesties Officers, inhabiting, or neere ad<g ref="char:EOLhyphen"/>joyning to all the Northern Roads, for the stopping and staying of all Armes, Ammunition, Powder, Light-horses, or Horses for Service in the Warres, and great Saddles that are, or shall be carryed to<g ref="char:EOLhyphen"/>wards the North parts of <hi>England,</hi> but by the pri<g ref="char:EOLhyphen"/>vity and direction of one, or both of the Houses of Parliament; And that the said Officers shall stay them accordingly, and speedily give Information thereof unto one of the said Houses of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Dio Mercurii, <hi>15</hi> Junii, <hi>1642.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords in Parliament, That this be Printed and Published.</p>
+                        <closer>
+                           <signed>Iohn Browne, Cler. Parliament,</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
